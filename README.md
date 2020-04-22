@@ -5,4 +5,4 @@ For the year 2018, we calculate the impact factor for [_JEB_](https://www.google
 
 _Note:_ submitted as an assignment for a course on Biostatistics in [IISER Pune](http://www.iiserpune.ac.in)
 
-Chitnis, Patel and Phaniraj (2019) - in alphabetical order 
+Work done by Shivam Chitnis, Shivangi Patel and Nikhil Phaniraj
