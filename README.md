@@ -1,6 +1,6 @@
 # impact-fac
 
-Estimating the "impact" of a journal from a sample of 26 articles.
+Estimating the impact factor of a journal from a sample of 26 articles.
 
 **Python code: Estimating impact of JEB in 2018 (By Shivam Chitnis, Shivangi Patel and Nikhil Phaniraj)**
 
