@@ -1,0 +1,10 @@
+name: virtual-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - matplotlib
+  - scipy
+  - numpy
+  - seaborn
